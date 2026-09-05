@@ -77,7 +77,7 @@ The architecture reserves a layer for logs, webhook failure alerts, and notifica
 
 # 🏗️ System Architecture
 
-![AutoCart System Architecture](architecture.png)
+![AutoCart System Architecture](arch.png)
 
 ```
                                    USER (natural language instruction)
